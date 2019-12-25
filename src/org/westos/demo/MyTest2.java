@@ -14,6 +14,7 @@ public class MyTest2 {
         案例演示
         需求：请在控制台输出数据1 - 10
         需求：请在控制台输出数据10 - 1*/
+       int x = 1;
        for(int i=1;i<=10;i++){
            System.out.println(i);
        }
